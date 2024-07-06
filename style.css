@@ -1,0 +1,117 @@
+* {
+  box-sizing: border-box;
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  font-size: 14px;
+  font-weight: 500;
+  color: #1a345e;
+  margin-right: 24px;
+}
+
+h1 {
+  margin: 0;
+}
+
+body {
+  font-family: 'Titillium Web','Noto Sans KR', sans-serif;
+  margin: 0;
+  background-color: #f8f8f8;
+}
+
+.headline {
+  color: #ffffff;
+  background-color: #11172b;
+  font-size: 24px;
+  font-weight: 300;
+  padding: 12px;
+}
+
+.headline-img  {
+  height: 24px;
+  margin-right: 12px;
+}
+
+.ticketsinfo {
+  background-color: #ebeff8;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  padding: 24px 32px;
+  border-radius: 8px;
+}
+
+.immigration {
+  margin-bottom: 8px;
+  color: #b3bdd5;
+  font-size: 16px;
+}
+
+.icnyyz {
+  font-size: 32;
+  color: #000000;
+  margin-bottom: 24px;
+}
+.date {
+  background-color: #ffffff;
+  color: #000000;
+  font-size: 16px;
+  padding: 8px 24px;
+  margin-bottom: 16px;
+  border-radius: 4px;
+  display: inline-block;
+}
+.content {
+  font-size: 12px;
+  color: #b3bdd5;
+}
+
+.ticketinfo {
+  background-color: #ffffff;
+  margin-top: 20px;
+  border-radius: 8px;
+}
+
+.ticketname {
+  padding: 8px 24px;
+  color: #16bf97;
+  font-size: 12px;
+  font-weight: 700;
+  border-bottom: 1px solid #dbf1ec;
+}
+
+.ticketinfo-box {
+  padding: 26px 24px 24px;
+}
+
+.ticketinfo-go {
+  color: #b3bdd5;
+  font-size: 12px;
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+.ticketinfo-go-time {
+  color: #1a345e;
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+.ticketinfo-go-time img {
+  width: 18px;
+  margin: 0px 10px;
+}
+.ticketinfo-airplane {
+  color: #b3bdd5;
+  font-size: 12px;
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+
+.ticketinfo-airplane-info {
+  color: #0b1f66;
+  font-size: 16px;
+  margin-bottom: 4px;
+}
